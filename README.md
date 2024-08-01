@@ -15,5 +15,5 @@ notes:
 2. bikin databasenya dulu + ganti .envnya sebelum jalanin backend biar nanti gak banyak console error, soalnya bisa bikin kepala meleduk 🤯🤯🤯🤯
 3. ada beberapa feature yang error (OTP sih sebenernya 😔😭😔😭), itu bisa dihapus, tpi agak riskan, soalnya kalo backend dihapus, di front end harus ada yg dihapus juga, soalnya kalo enggak bakal ngasih console error mulu, malah bisa bikin app gk jalan samsek 💀☠️💀☠️
 
-## Semoga Menang Lombanya 🥇
+## Semoga Menang Workshopnya 🥇
 <img align="right" alt="It is fine" width="800" src="https://media.giphy.com/media/UKWxGMEPjRwCA/giphy.gif">
